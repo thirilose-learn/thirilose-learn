@@ -52,8 +52,24 @@ Debug.
 
 Repeat.
 
+## Looking for the serious stuff?
+
+This account is where I experiment.
+
+Ideas get tested here.
+
+Things break here.
+
+Sometimes they even work.
+
+If you're looking for my professional projects, portfolio work, and more polished repositories, check out my official GitHub:
+
+🔗 https://github.com/ThiriloseJonesNithish-R
+
+That's where the "this should probably work in production" version of me lives.
+
 ## Fun Fact
 
 Most of my projects start with:
 
-"Wait... can I build that myself?"
+*"Wait... can I build that myself?"*
